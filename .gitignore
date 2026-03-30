@@ -1,0 +1,13 @@
+# Build output
+bin/
+
+# Test binary
+*.test
+
+# Coverage output
+*.out
+
+.idea
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
