@@ -6,7 +6,18 @@ bin/
 
 # Coverage output
 *.out
+coverage.*
+*.coverprofile
+profile.cov
 
+# Go workspace
+go.work
+go.work.sum
+
+# Env file
+.env
+
+# Editor/IDE
 .idea
 
 # Dependency directories (remove the comment below to include it)
